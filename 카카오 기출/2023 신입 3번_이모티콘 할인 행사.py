@@ -17,6 +17,6 @@ def solution(users, emoticons):
             else:
                 res[1] += tmp
                 
-        answer = max(answer, res)  # answer가 우선, 동일하면 res 비교
+        answer = max(answer, res)  # 임티플 가입 인원을 우선, 동일하면 결제비 비교
     
     return answer
