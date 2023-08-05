@@ -6,4 +6,4 @@
 - 프로그래머스 고득점 Kit: https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
 ## Status
-- 7/31까지 졸업과제 및 DL 프로젝트 진행으로 인한 일시 정지
+- 딥러닝 프로젝트(~7/31), 졸업과제 중간보고서(~8/5) 작업으로 인한 일시 정지
