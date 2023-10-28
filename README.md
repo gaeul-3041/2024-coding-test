@@ -6,8 +6,8 @@
 - 프로그래머스 고득점 Kit: https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
 ## Attended
-- 2023 토스 NEXT 개발자 챌린지(7/8)
-- 2023 SKT Junior Talent 개발 직군(9/9)
+- 2023 토스 NEXT 개발자 챌린지(7/8) - 탈락
+- 2023 SKT Junior Talent 개발 직군(9/9) - 탈락
 
 ## Status
-- 졸업과제 진행 중(~2023.10)
+- 졸업과제 진행 중(~2023.11.3)
