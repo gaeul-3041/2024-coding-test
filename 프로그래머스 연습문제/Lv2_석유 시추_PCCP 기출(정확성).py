@@ -1,11 +1,9 @@
 # 정확성만 해결, 효율성은 시간 초과 발생
 from collections import deque
-answer = 0
 dx = [-1, 1, 0, 0]
 dy = [0, 0, -1, 1]
 
 def bfs(r, c, land, visited):
-    global answer
     n = len(land)
     m = len(land[0])
     
@@ -24,7 +22,7 @@ def bfs(r, c, land, visited):
     return cnt
 
 def solution(land):
-    global answer
+    answer = 0
     n = len(land)
     m = len(land[0])
     
