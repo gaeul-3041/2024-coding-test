@@ -26,7 +26,7 @@ def solution(park, routes):
                 cy += 1
             elif di == 'W' and 0 <= py - i < c and park[px][py - i] != 'X':
                 cy -= 1
-                # 장애물 발견 시 즉시 중단
+            # 장애물 발견 시 즉시 중단
             else:
                 move = False
                 break
